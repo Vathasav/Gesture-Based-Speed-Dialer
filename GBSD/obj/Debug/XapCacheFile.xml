@@ -1,0 +1,51 @@
+﻿<xapCache source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\GestureTest.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="26-02-2013 12:54:07">
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="25-02-2013 17:08:40" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Background.png" archivePath="Background.png" lastWriteTime="25-02-2013 13:41:35" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="25-02-2013 13:41:35" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\obj\Debug\GestureTest.dll" archivePath="GestureTest.dll" lastWriteTime="26-02-2013 12:54:06" />
+  <file source="c:\Program Files\Microsoft SDKs\Expression\Blend\Windows Phone\v7.1\Libraries\Microsoft.Expression.Interactions.dll" archivePath="Microsoft.Expression.Interactions.dll" lastWriteTime="17-08-2011 01:48:22" />
+  <file source="C:\Program Files\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="15-09-2011 15:36:26" />
+  <file source="C:\Program Files\Microsoft SDKs\Windows Phone\v7.1\Toolkit\Aug11\Bin\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="12-08-2011 19:19:16" />
+  <file source="c:\Program Files\Microsoft SDKs\Expression\Blend\Windows Phone\v7.1\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="17-08-2011 01:48:22" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Images\WP7add2.png" archivePath="Images\WP7add2.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Images\WP7call2.png" archivePath="Images\WP7call2.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Images\WP7msg2.png" archivePath="Images\WP7msg2.png" lastWriteTime="25-02-2013 13:41:35" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Images\appbar.back.rest.png" archivePath="Images\appbar.back.rest.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Images\appbar.manage.rest.png" archivePath="Images\appbar.manage.rest.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Images\appbar.next.rest.png" archivePath="Images\appbar.next.rest.png" lastWriteTime="25-02-2013 13:41:35" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Images\call.phone.png" archivePath="Images\call.phone.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Images\appbar.save.rest.png" archivePath="Images\appbar.save.rest.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Images\send.distress.message.png" archivePath="Images\send.distress.message.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Images\send.message.png" archivePath="Images\send.message.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Images\appbar.add.rest.png" archivePath="Images\appbar.add.rest.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Images\appbar.stop.rest.png" archivePath="Images\appbar.stop.rest.png" lastWriteTime="25-02-2013 13:41:35" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Images\Gestures_Rotate.png" archivePath="Images\Gestures_Rotate.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Images\edit_delete.png" archivePath="Images\edit_delete.png" lastWriteTime="25-02-2013 13:41:35" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Images\arrow.down.png" archivePath="Images\arrow.down.png" lastWriteTime="25-02-2013 13:41:35" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Images\arrow.left.png" archivePath="Images\arrow.left.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Images\arrow.right.png" archivePath="Images\arrow.right.png" lastWriteTime="25-02-2013 13:41:35" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Images\arrow.up.png" archivePath="Images\arrow.up.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Images\SplashScreenImage.jpg" archivePath="Images\SplashScreenImage.jpg" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="25-02-2013 17:08:40" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\Images\WP7add2.png" archivePath="Images\WP7add2.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\Images\WP7call2.png" archivePath="Images\WP7call2.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\Images\WP7msg2.png" archivePath="Images\WP7msg2.png" lastWriteTime="25-02-2013 13:41:35" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\Images\appbar.back.rest.png" archivePath="Images\appbar.back.rest.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\Images\appbar.manage.rest.png" archivePath="Images\appbar.manage.rest.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\Images\appbar.next.rest.png" archivePath="Images\appbar.next.rest.png" lastWriteTime="25-02-2013 13:41:35" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\Images\call.phone.png" archivePath="Images\call.phone.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\Images\appbar.save.rest.png" archivePath="Images\appbar.save.rest.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\Images\send.distress.message.png" archivePath="Images\send.distress.message.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\Images\send.message.png" archivePath="Images\send.message.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\Images\appbar.add.rest.png" archivePath="Images\appbar.add.rest.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\Images\appbar.stop.rest.png" archivePath="Images\appbar.stop.rest.png" lastWriteTime="25-02-2013 13:41:35" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\Images\Gestures_Rotate.png" archivePath="Images\Gestures_Rotate.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\Images\edit_delete.png" archivePath="Images\edit_delete.png" lastWriteTime="25-02-2013 13:41:35" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="25-02-2013 13:41:35" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\Images\arrow.down.png" archivePath="Images\arrow.down.png" lastWriteTime="25-02-2013 13:41:35" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\Images\arrow.left.png" archivePath="Images\arrow.left.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\Images\arrow.right.png" archivePath="Images\arrow.right.png" lastWriteTime="25-02-2013 13:41:35" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\Images\arrow.up.png" archivePath="Images\arrow.up.png" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\Images\SplashScreenImage.jpg" archivePath="Images\SplashScreenImage.jpg" lastWriteTime="25-02-2013 13:41:36" />
+  <file source="C:\Users\Harsha\Documents\Visual Studio 2010\Projects\Gbsd\GBSD\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="25-02-2013 13:41:35" />
+</xapCache>
